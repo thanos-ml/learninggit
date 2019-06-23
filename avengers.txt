@@ -3,6 +3,7 @@ Avengers
 Thanos
 Captain Marvel
 Captain America
+Dr Strange
 Iron Man
 Black Widow
 Thor
