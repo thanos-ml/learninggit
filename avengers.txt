@@ -4,6 +4,7 @@ Thanos
 Captain Marvel
 Captain America
 Dr Strange
+Starlord
 Iron Man
 Black Widow
 Thor
